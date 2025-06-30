@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Oi, eu sou a Danieli!
 
-<!--
-**danielidev/danielidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Engenharia de Software | 🎯 Social Media e Estrategista Digital
 
-Here are some ideas to get you started:
+Atuo como criadora de conteúdo e social media freelancer, e venho me especializando no desenvolvimento de soluções web e mobile. Busco unir criatividade, estratégia e tecnologia em projetos que tenham propósito e foco em experiência do usuário.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Áreas que tenho estudado:
+- 💡 Lógica de Programação e Estrutura de Dados  
+- 🌐 Desenvolvimento Web  
+- 📱 Desenvolvimento Mobile com Flutter  
+- 🗃️ Banco de Dados e SQL  
+- 📊 Modelagem de Sistemas e Engenharia de Requisitos  
+- 📈 Gestão de Projetos em TI
+
+---
+
+## 📌 O que você vai encontrar por aqui:
+- 📚 Exercícios práticos e testes de aprendizado  
+- 💻 Projetos de estudo focados em aplicação real  
+- 🛠️ Soluções simples que refletem minha evolução como desenvolvedora
+
+---
+
+## ⚙️ Tecnologias e ferramentas que utilizo:
+Java • Python • SQL • HTML • CSS • JavaScript • Flutter  
+Git e GitHub • Canva • Edição de Conteúdo • Estratégias Digitais
+
+---
+
+📫 **Vamos nos conectar?**  
+[🔗 LinkedIn](https://www.linkedin.com/in/danieli-soares) • [📧 Email](mailto:danielisoares.tech@gmail.com)
